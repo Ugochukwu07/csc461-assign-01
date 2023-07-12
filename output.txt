@@ -1,0 +1,46 @@
+Student: Olivia Miller
+Final Exam Grade: 95
+Final Average: 90.25
+Letter Grade: A
+
+Student: Alice Johnson
+Final Exam Grade: 80
+Final Average: 83.70
+Letter Grade: B
+
+Student: John Doe
+Final Exam Grade: 90
+Final Average: 83.50
+Letter Grade: B
+
+Student: William Anderson
+Final Exam Grade: 90
+Final Average: 83.00
+Letter Grade: B
+
+Student: David Clark
+Final Exam Grade: 75
+Final Average: 82.30
+Letter Grade: B
+
+Student: Emma Taylor
+Final Exam Grade: 80
+Final Average: 82.00
+Letter Grade: B
+
+Student: Michael Brown
+Final Exam Grade: 85
+Final Average: 80.75
+Letter Grade: B
+
+Student: Jane Smith
+Final Exam Grade: 70
+Final Average: 79.50
+Letter Grade: C
+
+Grade Distribution:
+A: 1
+B: 6
+C: 1
+D: 0
+F: 0
