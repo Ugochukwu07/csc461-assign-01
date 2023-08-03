@@ -62,9 +62,6 @@ for student in students:
     students_by_course[course].append(student)
 
 # Print the summary report to the output file grouped by course
-# ... (Previous code remains the same)
-
-# Print the summary report to the output file grouped by course
 with open(output_file, 'w') as file:
     file.writelines("Student Grade Summary\n")
     file.writelines("---------------------\n\n")
